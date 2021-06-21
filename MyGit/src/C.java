@@ -1,4 +1,5 @@
 public interface C {
+	void Intro();
 	void owner();
 	void Start();
 	void Stop();
