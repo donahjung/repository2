@@ -1,4 +1,7 @@
 public class A implements C {
+	public void owner() {
+		System.out.println("Hello I`m the owner of car.");
+	}
 	
 	public void Start() {
 		System.out.println ("BMW is starting now.");
