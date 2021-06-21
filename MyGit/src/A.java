@@ -2,6 +2,7 @@ public class A implements C {
 	
 	public void Start() {
 		System.out.println ("BMW is starting now.");
+		System.out.println ("Here we go!");
 	}
 	
 	public void Stop() {
