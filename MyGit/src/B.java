@@ -1,5 +1,9 @@
 public class B implements C {
 	
+	public void Intro() {
+		System.out.println("Let me introduce my Cadillac.");
+	}
+	
 	public void Start() {
 		System.out.println ("Cadillac is starting now.");
 	}
