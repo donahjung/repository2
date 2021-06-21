@@ -2,6 +2,7 @@ public class B implements C {
 	
 	public void Intro() {
 		System.out.println("Let me introduce my Cadillac.");
+		System.out.println ("Here we go!");
 	}
 	
 	public void Start() {
